@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* I removed the div and added aside like in the HTML so the code could be read accurately  */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -85,6 +85,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/* 3 changes were made here, 1. I changed the benefits to aside, 2. Removed the DRY text as it was repeating. 3. changed the HTML code  */
 aside p {
     margin-bottom: 32px;
     color: #ffffff;
