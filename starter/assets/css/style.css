@@ -49,8 +49,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/* as i changed div to figure in the HTMl, I am chnaging this in CSS to align with the changes  */
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
